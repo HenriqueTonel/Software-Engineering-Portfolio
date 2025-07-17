@@ -1,6 +1,6 @@
 # Kingdom of Algebria
 
-### 🚀 About the project
+### 🚀 Welcome!
 Reino de Algebria (Kingdom of Algebria) is an RPG / medieval fantasy themed math game developed by a team of Computer Science undergraduate students at Unijuí, having Henrique Kitzmann Tonel as the developer, Diovana dos Santos Manica as the designer and Gabriel Ribeiro da Rosa and Matheus Pereira Stroher as the team responsible for the documentation of all of the steps, from ideation and development to the implementation of the project.
 
 ### 🧬 About the structure
@@ -30,3 +30,11 @@ The main principle involved with the development of this project is the belief t
 1 - In your browser, navigate to https://scratch.mit.edu/projects/1184373709/;
 
 2 - Enjoy!
+
+### 🙌 Thanks!
+
+I appreciate you! If you liked the project, please share it!
+
+### 🔗 My socials
+
+[My LinkedIn](https://www.linkedin.com/in/henrique-kitzmann-tonel-179a55213/)
