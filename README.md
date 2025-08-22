@@ -4,6 +4,6 @@ Here are my projects that I'm leading during my road as an academic in Software 
 
 If you like my work, please share 🚀
 
-💠 [My LinkedIn profile](https://www.linkedin.com/in/henrique-kitzmann-tonel/)
+💠 My linkedIn profile: [https://www.linkedin.com/in/henrique-kitzmann-tonel/](https://www.linkedin.com/in/henrique-kitzmann-tonel/)
 
 💠 My email: henriquekitzmanntonel@gmail.com
